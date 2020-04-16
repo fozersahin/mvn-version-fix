@@ -1,4 +1,4 @@
-# mvn-version-fix
+# mvn-java-version-fix
 
 When I install Java then Maven, I realised that Java version in maven was different. 
 
